@@ -1,0 +1,102 @@
+<DOC!TYPE html>
+
+<html>
+
+<head>
+<title>spooky season</title>
+<h1><div>spooky season</div></h1>
+<style>
+body {background-color:#ffca99;
+      color:#5a4577;}
+div {text-align: center;}
+
+
+
+</style>
+</head>
+
+<body>
+
+<h2><div>halloween info</div></h2>
+<IMG STYLE="position:absolute; TOP:75px; LEFT:75px; WIDTH:100px; HEIGHT:100px" SRC="cuteghost.png">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:750px; WIDTH:100px; HEIGHT:100px" SRC="cuteghost.png">
+ <p><div>halloween or all hallows' eve was most like started<br>
+ two thousand years ago to a pre-christisn celtic festival<br>
+ called samhain (sah-win), meaning "summer's end in gaelic.</div></p><br>
+  <p><div>halloween is a fun holiday!<br> 
+  you get to dress up as anything you want<br>
+  you can go trick-or-treating<br>
+  you could even host a halloween party<br>
+  halloween is for everyone</div><br></p>
+
+<h2>monster mash (song lyrics!)</h2>
+<IMG STYLE="position:absolute; TOP:350px; LEFT:400px; WIDTH:100px; HEIGHT:100px" SRC="frank.jpg">
+ <p id="mash">he did the mash<br>
+ he did the monster mash<br>
+ the monster mash<br>
+ it was a graveyard smash<br>
+ he did the mash<br>
+ it caught on in a flash<br>
+ he did the mash<br>
+ he did the monster mash<br></p>
+
+<h2> <a href="https://tasty.co/recipe/halloween-pumpkin-deviled-eggs" target="_blank">recipe: halloween pumpkin deviled eggs</h2></a>
+ <h4>ingredients for 12 servings</h4>
+  <ul>
+   <li>six hard-boiled eggs.</li>
+   <li>three tablespoons of dijon mustard.</li>
+   <li>one-fourth cup of mayonnaise.</li>
+   <li>one teaspoon of paprika, plus additional for garnish.</li>
+   <li>salt, to taste.</li>
+   <li>pepper, to taste.</li>
+   <li>fresh chives, finely chopped, for garnish.</li>
+  </ul>
+ <h4>preparation</h4>
+  <ol>
+   <li>peel and slice hard boiled eggs lengthwise. separate yolks into a separate bowl.</li>
+   <li>add mustard, mayonnaise, paprika, salt, and pepper to the yolks, and mix thoroughly.</li>
+   <li>fill a piping bag with the yolk mixture, and pipe into the empty egg whites.</li>
+   <li>sprinkle with paprika, and place a piece of chive to make it look like a pumpkin.</li>
+  </ol>
+
+<h4><a href="https://www.goodhousekeeping.com/holidays/halloween-ideas/a22196/pumpkin-carving-tips/" target="_blank">How to Carve a Pumpkin!</a></h4>
+ <ol>
+<marquee behavior="scroll" direction="left">
+<img src="pumpkins.jpg" alt="pumpkins" width="250">
+</marquee>
+
+  <li><strong>Good carving starts with <u>the right pumpkin</strong></u>.<br>
+	      Choose one that is fresh, with a sturdy stem, no bruises,<br>
+              and a flat bottom so it won't roll while you carve.<br></li>
+  <li><strong>Cut out the lid on an angle, not straight up-and-down.</strong><br>
+              This way the lid won't drop inside the <u>pumpkin</u> when you replace it.<br>
+              A <u>boning knife</u> works best for this.<br></li>
+  <li><strong>Scoop out all the pulp — and and then some.</strong><br>
+              You can buy a <u>special "claw" for this,</u> but an <u>ice cream scoop</u> will do just fine.<br>
+              Thin the inner wall of the "face" area to one and one-fourth-inch thick, 
+              so it will be easier to pierce the shell.<br>
+  <li><strong>Hold the pumpkin in your lap.</strong><br>
+              It's easier to carve features when the face is gazing up at you.<br>
+              And don't cut on a slant — clean up-and-down slices look best.<br>
+              To <u>make intricate designs,</u> try using a small saw.<br>
+              Save yourself from creative blocks by getting a <u>pumpkin carving kit,</u><br>
+              complete with a marker, scraper, cutting tools, and patterns.<br>
+  <li><strong>Use your scraps creatively.</strong><br>
+              Make a tongue, pipe, or hair accessories out of a discarded piece of pumpkin shell, for example.<br></li>
+  <li><strong>Keep your pumpkin fresh.</strong><br>
+              Spread <u>petroleum jelly</u> on the cut edges to seal in moisture.<br>
+              If your pumpkin still shrivels a few days later, you can revive it<br>
+              with a facedown soak in cold water for up to eight hours.<br></li>
+  <li><strong>Create a chimney.</strong><br>
+              First, leave the lid on for a few minutes while <u>the candle</u> burns.<br>
+              Then make a small hole where the lid has blackened. Or, save yourself the stress<br>
+              and go with <u>battery-operated votives</u> instead.<br></li>
+  <li><strong>Sprinkle a little cinnamon inside the lid.</strong><br>
+              When you light the candle, your jack-o'-lantern will smell
+              like a <u>pumpkin pie</u>! <em>Yum.</em></li><br>
+ </ol>
+
+
+</body>
+
+</html>
